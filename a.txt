@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 file a is modified in master
+file a is modified and time to merge
+>>>>>>> branch-2
